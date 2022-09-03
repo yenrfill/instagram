@@ -1,3 +1,0 @@
-
-name :oussama
-pass :o
